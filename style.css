@@ -13,7 +13,7 @@
 }
 body {
   font-family: "Epilogue", sans-serif;
-   background-color: var(--primary-light);
+  background-color: var(--primary-white);
 }
 
 *,
